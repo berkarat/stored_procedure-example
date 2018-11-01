@@ -1,0 +1,8 @@
+C:\Users\berk\Documents\Visual Studio 2015\Projects\sp_kullanim_example\sp_kullanim_example\bin\Debug\sp_kullanim_example.exe.config
+C:\Users\berk\Documents\Visual Studio 2015\Projects\sp_kullanim_example\sp_kullanim_example\bin\Debug\sp_kullanim_example.exe
+C:\Users\berk\Documents\Visual Studio 2015\Projects\sp_kullanim_example\sp_kullanim_example\bin\Debug\sp_kullanim_example.pdb
+C:\Users\berk\Documents\Visual Studio 2015\Projects\sp_kullanim_example\sp_kullanim_example\obj\Debug\sp_kullanim_example.Form1.resources
+C:\Users\berk\Documents\Visual Studio 2015\Projects\sp_kullanim_example\sp_kullanim_example\obj\Debug\sp_kullanim_example.Properties.Resources.resources
+C:\Users\berk\Documents\Visual Studio 2015\Projects\sp_kullanim_example\sp_kullanim_example\obj\Debug\sp_kullanim_example.csproj.GenerateResource.Cache
+C:\Users\berk\Documents\Visual Studio 2015\Projects\sp_kullanim_example\sp_kullanim_example\obj\Debug\sp_kullanim_example.exe
+C:\Users\berk\Documents\Visual Studio 2015\Projects\sp_kullanim_example\sp_kullanim_example\obj\Debug\sp_kullanim_example.pdb
